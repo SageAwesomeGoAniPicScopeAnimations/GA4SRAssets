@@ -13228,6 +13228,22 @@
 	<state id="wink" filename="wink.swf"/>
         <state id="yawn" filename="yawn.swf"/>
     </component>
+    <component type="eye" id="004c" path="004c" name="004c" thumb="thumbnail.swf" money="0" sharing="0" enable="Y">
+        <state id="angry" filename="angry.swf"/>
+        <state id="asleep" filename="asleep.swf"/>
+        <state id="cry" filename="cry.swf"/>
+        <state id="default" filename="default.swf"/>
+        <state id="happy" filename="happy.swf"/>
+        <state id="sad" filename="sad.swf"/>
+        <state id="schemeing" filename="schemeing.swf"/>
+        <state id="shock" filename="shock.swf"/>
+        <state id="sick" filename="sick.swf"/>
+	<state id="slightlyangry" filename="slightlyangry.swf"/>
+	<state id="terrified" filename="shock.swf"/>
+        <state id="thinking" filename="thinking.swf"/>
+	<state id="wink" filename="wink.swf"/>
+        <state id="yawn" filename="yawn.swf"/>
+    </component>
     <component type="eye" id="004d" path="004d" name="004d" thumb="thumbnail.swf" money="0" sharing="0" enable="Y">
         <state id="angry" filename="angry.swf"/>
         <state id="asleep" filename="asleep.swf"/>
@@ -16024,6 +16040,9 @@
     <component type="hair" id="6046" path="6046" name="6046" thumb="thumbnail.swf" money="0" sharing="0" enable="Y">
         <state id="default" filename="default.swf"/>
     </component>
+    <component type="hair" id="6047" path="6047" name="6047" thumb="thumbnail.swf" money="0" sharing="0" enable="Y">
+        <state id="default" filename="default.swf"/>
+    </component>
     <component type="hair" id="6048" path="6048" name="6048" thumb="Emo_Hair.swf" money="0" sharing="0" enable="Y">
         <state id="default" filename="Emo_Hair.swf"/>
     </component>
@@ -16097,6 +16116,9 @@
         <state id="default" filename="default.swf"/>
     </component>
     <component type="nose" id="030" path="030" name="030" thumb="thumbnail.swf" money="0" sharing="0" enable="Y">
+        <state id="default" filename="default.swf"/>
+    </component>
+    <component type="nose" id="031" path="031" name="031" thumb="thumbnail.swf" money="0" sharing="0" enable="Y">
         <state id="default" filename="default.swf"/>
     </component>
     <component type="beard" id="005" path="005" name="005" thumb="thumbnail.swf" money="0" sharing="0" enable="Y">
@@ -16673,6 +16695,9 @@
         <state id="default" filename="default.swf"/>
     </component>
     <component type="facedecoration" id="2004" path="2004" name="2004" thumb="thumbnail.swf" money="0" sharing="0" enable="Y">
+        <state id="default" filename="default.swf"/>
+    </component>
+    <component type="facedecoration" id="2005" path="2005" name="2005" thumb="thumbnail.swf" money="0" sharing="0" enable="Y">
         <state id="default" filename="default.swf"/>
     </component>
     <component type="facedecoration" id="2006" path="2006" name="2006" thumb="thumbnail.swf" money="0" sharing="0" enable="Y">
